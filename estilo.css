@@ -1,0 +1,31 @@
+body{
+    background-color: rgb(113, 179, 226);
+    margin: 0px;
+
+}
+
+label {
+    display: block;
+
+}
+
+input[type="text"]{
+    height: 30px;
+    width: 500px;
+    font-size: 20px;
+}
+fieldset{
+    background-color: rgb(149, 208, 250);
+
+    border: 2px solid white;
+    color: rgb(255, 255, 255);
+    text-decoration:dashed;
+    width: 200px;
+    margin: auto;
+}
+
+legend{
+    background-color: rgb(128, 195, 231);
+    color:white;
+
+}
